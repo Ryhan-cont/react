@@ -1,0 +1,93 @@
+// Background color class
+.bg-primary{background: var(--primary) !important;}
+.bg-secondary{background: var(--secondary) !important;}
+.bg-teal{background: var(--teal) !important;}
+.bg-cyan{background: var(--cyan) !important;}
+.bg-purple{background: var(--purple) !important;}
+.bg-pink{background: var(--pink) !important;}
+.bg-green{ background: var(--green) !important;}
+.bg-red{background: var(--red) !important;}
+.bg-blue{background: var(--blue) !important;}
+.bg-yellow{background: var(--yellow) !important;}
+
+.bg-danger{background: var(--danger) !important;}
+.bg-success{background: var(--success) !important;}
+.bg-warning{background: var(--warning) !important;}
+.bg-info{background: var(--info) !important;}
+
+.bg-white{background-color: var(--white) !important;}
+.bg-body {background: var(--background) !important;}
+
+.bg-primary-hover{&:hover{background: var(--primaryhover) !important;}}
+.bg-primary-active{background: var(--primaryactive) !important;}
+
+.bg-secondary-hover{&:hover{background: var(--primaryhover) !important;}}
+.bg-secondary-active{background: var(--primaryactive) !important;}
+
+.bg-borderandline{ background: var(--green) !important;}
+.bg-red{background: var(--red) !important;}
+.bg-blue{background: var(--blue) !important;}
+.bg-yellow{background: var(--yellow) !important;}
+
+//Text Color Class
+.color-primary{color: var(--primary) !important;}
+.color-primary-active{color: var(--primaryactive) !important;}
+.color-secondary{color: var(--secondary) !important;}
+.color-teal{color: var(--teal) !important;}
+.color-cyan{color: var(--cyan) !important;}
+.color-purple{color: var(--purple) !important;}
+.color-pink{color: var(--pink) !important;}
+.color-green{color: var(--green) !important;}
+.color-red{color: var(--red) !important;}
+.color-blue{color: var(--blue) !important;}
+.color-yellow{color: var(--yellow) !important;}
+
+
+.color-headline{color: var(--headline) !important;}
+.color-background{color: var(--background) !important;}
+.color-b1{color: var(--b1) !important;}
+.color-b2{color: var(--b2) !important;}
+.color-b3{color: var(--b3) !important;}
+.color-disable{color: var(--disable) !important;}
+.color-white{color: var(--white) !important;}
+.color-black{color: var(--black) !important;}
+.color-real-black{color: var(--real-black) !important;}
+.color-grey{color: var(--grey) !important;}
+.color-mid-grey{color: var(--mid-grey) !important;}
+.color-dark-grey {color: var(--dark-grey) !important;}
+
+.color-warning{color: var(--warning) !important;}
+.color-success{color: var(--success) !important;}
+.color-error{color: var(--red) !important;}
+.color-danger{color: var(--danger) !important;}
+.color-info{color: var(--info) !important;}
+
+.color-placeholder{color: var(--b3) !important;}
+.color-body{color: var(--body-color) !important;}
+
+
+
+.darkborder-color{border-color: var(--darkborder) !important;}
+.borderandline-color{border-color: var(--borderandline) !important;}
+
+
+
+
+// .bg-primary-lighter{background: rgba($color-primary, 10%) !important;}
+// .bg-secondary-lighter{background: rgba($color-secondary, 10%) !important;}
+// .bg-pink-lighter{background: rgba($color-pink, 10%) !important;}
+// .bg-purple-light-lighter-2{background: rgba($color-purple-light, 10%) !important;}
+// .bg-teal-lighter{background: rgba($color-teal, 10%) !important;}
+// .bg-cyan-lighter{background: rgba($color-cyan, 10%) !important;}
+// .bg-yellow-lighter{background: rgba($color-yellow, 10%) !important;}
+// .bg-yellow-lighter-2{background: rgba($color-yellow, 20%) !important;}
+// .bg-warning-lighter{background: rgba($color-warning, 10%) !important;}
+// .bg-error-lighter{background: #ffeeee !important;}
+// .bg-error-lighter-2{background: rgba($color-error, 10%) !important;}
+// .bg-error-lighter-3 {background: #ffeaf8;}
+// .bg-success-lighter {background: #f8fff9 !important;}
+// .bg-success-lighter-2{background: rgba($color-success, 10%) !important;}
+// .bg-blue-lighter{background: rgba($color-blue-light, 10%) !important;}
+// .bg-blue-light{background: var(--blue) !important;}
+// .color-blue-light{color: var(--blue);}
+// .color-new-light{color: var(--darkborder) !important;}
